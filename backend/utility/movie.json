@@ -1,0 +1,353 @@
+[
+    {
+        "id": 1,
+        "title": "Inception",
+        "year": 2010,
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "director": "Christopher Nolan",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page",
+            "Tom Hardy"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "The Matrix",
+        "year": 1999,
+        "genre": ["Action", "Sci-Fi"],
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "cast": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss",
+            "Hugo Weaving"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "genre": ["Drama"],
+        "director": "Frank Darabont",
+        "cast": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton",
+            "William Sadler"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "The Godfather",
+        "year": 1972,
+        "genre": ["Crime", "Drama"],
+        "director": "Francis Ford Coppola",
+        "cast": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan",
+            "Diane Keaton"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "genre": ["Crime", "Drama"],
+        "director": "Quentin Tarantino",
+        "cast": [
+            "John Travolta",
+            "Uma Thurman",
+            "Samuel L. Jackson",
+            "Bruce Willis"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "The Dark Knight",
+        "year": 2008,
+        "genre": ["Action", "Crime", "Drama"],
+        "director": "Christopher Nolan",
+        "cast": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart",
+            "Michael Caine"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Fight Club",
+        "year": 1999,
+        "genre": ["Drama"],
+        "director": "David Fincher",
+        "cast": [
+            "Brad Pitt",
+            "Edward Norton",
+            "Meat Loaf",
+            "Helena Bonham Carter"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Forrest Gump",
+        "year": 1994,
+        "genre": ["Drama", "Romance"],
+        "director": "Robert Zemeckis",
+        "cast": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise",
+            "Sally Field"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Interstellar",
+        "year": 2014,
+        "genre": ["Adventure", "Drama", "Sci-Fi"],
+        "director": "Christopher Nolan",
+        "cast": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain",
+            "Bill Irwin"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "genre": ["Action", "Adventure", "Drama"],
+        "director": "Peter Jackson",
+        "cast": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Orlando Bloom",
+            "Sean Astin"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": 2002,
+        "genre": ["Action", "Adventure", "Drama"],
+        "director": "Peter Jackson",
+        "cast": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Viggo Mortensen",
+            "Orlando Bloom"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "genre": ["Action", "Adventure", "Drama"],
+        "director": "Peter Jackson",
+        "cast": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Viggo Mortensen",
+            "Orlando Bloom"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Gladiator",
+        "year": 2000,
+        "genre": ["Action", "Adventure", "Drama"],
+        "director": "Ridley Scott",
+        "cast": [
+            "Russell Crowe",
+            "Joaquin Phoenix",
+            "Connie Nielsen",
+            "Oliver Reed"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Saving Private Ryan",
+        "year": 1998,
+        "genre": ["Drama", "War"],
+        "director": "Steven Spielberg",
+        "cast": [
+            "Tom Hanks",
+            "Matt Damon",
+            "Tom Sizemore",
+            "Edward Burns"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Schindler's List",
+        "year": 1993,
+        "genre": ["Biography", "Drama", "History"],
+        "director": "Steven Spielberg",
+        "cast": [
+            "Liam Neeson",
+            "Ralph Fiennes",
+            "Ben Kingsley",
+            "Caroline Goodall"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "The Silence of the Lambs",
+        "year": 1991,
+        "genre": ["Crime", "Drama", "Thriller"],
+        "director": "Jonathan Demme",
+        "cast": [
+            "Jodie Foster",
+            "Anthony Hopkins",
+            "Lawrence A. Bonney",
+            "Kasi Lemmons"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Se7en",
+        "year": 1995,
+        "genre": ["Crime", "Drama", "Mystery"],
+        "director": "David Fincher",
+        "cast": [
+            "Brad Pitt",
+            "Morgan Freeman",
+            "Gwyneth Paltrow",
+            "Kevin Spacey"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "The Green Mile",
+        "year": 1999,
+        "genre": ["Crime", "Drama", "Fantasy"],
+        "director": "Frank Darabont",
+        "cast": [
+            "Tom Hanks",
+            "Michael Clarke Duncan",
+            "David Morse",
+            "Bonnie Hunt"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "The Prestige",
+        "year": 2006,
+        "genre": ["Drama", "Mystery", "Sci-Fi"],
+        "director": "Christopher Nolan",
+        "cast": [
+            "Christian Bale",
+            "Hugh Jackman",
+            "Scarlett Johansson",
+            "Michael Caine"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Django Unchained",
+        "year": 2012,
+        "genre": ["Drama", "Western"],
+        "director": "Quentin Tarantino",
+        "cast": [
+            "Jamie Foxx",
+            "Christoph Waltz",
+            "Leonardo DiCaprio",
+            "Kerry Washington"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Inglourious Basterds",
+        "year": 2009,
+        "genre": ["Adventure", "Drama", "War"],
+        "director": "Quentin Tarantino",
+        "cast": [
+            "Brad Pitt",
+            "Diane Kruger",
+            "Eli Roth",
+            "Mélanie Laurent"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Whiplash",
+        "year": 2014,
+        "genre": ["Drama", "Music"],
+        "director": "Damien Chazelle",
+        "cast": [
+            "Miles Teller",
+            "J.K. Simmons",
+            "Paul Reiser",
+            "Melissa Benoist"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "The Departed",
+        "year": 2006,
+        "genre": ["Crime", "Drama", "Thriller"],
+        "director": "Martin Scorsese",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Matt Damon",
+            "Jack Nicholson",
+            "Mark Wahlberg"
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Mad Max: Fury Road",
+        "year": 2015,
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "director": "George Miller",
+        "cast": [
+            "Tom Hardy",
+            "Charlize Theron",
+            "Nicholas Hoult",
+            "Hugh Keays-Byrne"
+        ]
+    },
+    {
+        "id": 25,
+        "title": "The Lion King",
+        "year": 1994,
+        "genre": ["Animation", "Adventure", "Drama"],
+        "director": "Roger Allers, Rob Minkoff",
+        "cast": [
+            "Matthew Broderick",
+            "Jeremy Irons",
+            "James Earl Jones",
+            "Whoopi Goldberg"
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Avatar",
+        "year": 2009,
+        "genre": ["Action", "Adventure", "Fantasy"],
+        "director": "James Cameron",
+        "cast": [
+            "Sam Worthington",
+            "Zoe Saldana",
+            "Sigourney Weaver",
+            "Stephen Lang"
+        ]
+    },
+    {
+        "id": 27,
+        "title": "The Avengers",
+        "year": 2012,
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "director": "Joss Whedon",
+        "cast": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Scarlett Johansson",
+            "Mark Ruffalo"
+        ]
+    }
+]
